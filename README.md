@@ -4,9 +4,6 @@
 
 #### ⚡ I am a Data Science Enthusiast
 
-#### 💻 I’m currently working on: 
-- Internship offered by [The Sparks Foundation.](https://www.thesparksfoundationsingapore.org/)
-
 #### 💬 Ask me about:
 - Python
 - SQL
