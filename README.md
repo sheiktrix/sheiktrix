@@ -2,8 +2,6 @@
 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞 <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px">
 </div>
 
-#### ⚡ I am a Data Science Enthusiast
-
 #### 💬 Ask me about:
 - Python
 - SQL
