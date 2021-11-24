@@ -7,4 +7,4 @@
 - SQL
 
 #### 🤪 Fun fact:
-- Whenever I turn on the PC, I use to refresh the desktop a minimum of 5 times.
+- Whenever I turn on the PC, I use to refresh the desktop a minimum of 10 times.
