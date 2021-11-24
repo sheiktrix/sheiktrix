@@ -5,8 +5,6 @@
 #### 💬 Ask me about:
 - Python
 - SQL
-- Machine Learning
-- Data Science
 
 #### 🤪 Fun fact:
-- Whenever I turn on the PC, I use to refresh the desktop page a minimum of 10 times.
+- Whenever I turn on the PC, I use to refresh the desktop page a minimum of 5 times.
